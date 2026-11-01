@@ -1,0 +1,4 @@
+Role: Python Developer
+Required: Python, SQL, FastAPI, REST API development and 2+ years of relevant experience.
+Preferred: Machine Learning, AWS, Git and PostgreSQL.
+Review candidates against required skills, actual experience, and relevant qualifications.
